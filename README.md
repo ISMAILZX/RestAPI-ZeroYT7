@@ -52,9 +52,8 @@
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)</a>
 
-<p align="center">
 ## ```THANKS TO```
 > Allah S.W.T
 > Ortu
@@ -63,5 +62,4 @@
 > Ojan
 > Eka Danuarta
 > Zhirr
-</p>
 ```
