@@ -174,7 +174,7 @@ loghandler = {
         status: false,
         creator: `${creator}`,
         code: 406,
-        message: `Apikey tidak ditemukan! Silahkan kontak Owner untuk dapatkan Apikey wa.me/62895337278647`
+        message: `Apikey tidak ditemukan! Silahkan kontak Owner untuk dapatkan Apikey wa.me/6285157740529`
     },
     invalidLink: {
         status: false,
