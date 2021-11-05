@@ -55,11 +55,11 @@
 - [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)</a>
 
 ## ```THANKS TO```
-> Allah S.W.T
-> Ortu
-> Fxc7
-> Farhan
-> Ojan
-> Eka Danuarta
-> Zhirr
+- Allah S.W.T
+- Ortu
+- Fxc7
+- Farhan
+- Ojan
+- Eka Danuarta
+- Zhirr
 ```
